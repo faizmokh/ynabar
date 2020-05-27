@@ -313,7 +313,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Ambar/Preview Content\"";
-				DEVELOPMENT_TEAM = 562D22S6BD;
+				DEVELOPMENT_TEAM = 3XY78GBGCX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Ambar/Info.plist;
@@ -322,7 +322,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
-				PRODUCT_BUNDLE_IDENTIFIER = com.goldenchopper.Ambar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.faizmokhtar.ynabar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -336,7 +336,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Ambar/Preview Content\"";
-				DEVELOPMENT_TEAM = 562D22S6BD;
+				DEVELOPMENT_TEAM = 3XY78GBGCX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Ambar/Info.plist;
@@ -345,7 +345,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
-				PRODUCT_BUNDLE_IDENTIFIER = com.goldenchopper.Ambar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.faizmokhtar.ynabar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
